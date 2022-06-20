@@ -5,5 +5,5 @@
 
 -->
 
-I'm currently teaching administration and infraestructure for technical classes.
-I'm graduated in Agronomy, Maths and currently at the 5/8 semester to be licensed in informatics.
+I'm currently teaching Administration and Infraestructure for technical classes.
+I'm graduated in Agronomy, Maths and currently at the 5/8 semester to be Licensed in Informatics.
