@@ -1,5 +1,5 @@
 -  Hi, I'm @phmmpaulo
-- 🔭 I’m currently working on learning new programing languages
+- 🔭 I’m currently working as a technical course teacher
 - 🌱 I’m currently learning HTML, CSS3, Scratch and JavaScript
 - 📫 How to reach me: phmm.paulo@gmail.com
 - 😄 Pronouns: ...
