@@ -2,8 +2,7 @@
 - 🔭 I’m currently working as a technical course teacher
 - 🌱 I’m currently learning HTML, CSS3, Scratch and JavaScript
 - 📫 How to reach me: phmm.paulo@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 I'm currently teaching administration and infraestructure for technical classes.
